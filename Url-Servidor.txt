@@ -1,0 +1,4 @@
+https://github.com/RockStoneStudios/Gifos.git
+
+
+Url servidor GitHub Pages : https://rockstonestudios.github.io/Proyecto2-Gifos/
